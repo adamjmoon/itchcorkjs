@@ -1,0 +1,12 @@
+{
+    "name":"itchcork",
+    "version":"1.0.0",
+    "dependencies":{
+        "coffee-script":"1.7.1",
+        "grunt":"0.4.2",
+		"grunt-contrib-requirejs": "~0.4.1"
+    },
+    "devDependencies":{
+
+    }
+}
